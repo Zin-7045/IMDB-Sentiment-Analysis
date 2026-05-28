@@ -1,0 +1,32 @@
+# Large dataset
+IMDB Dataset.csv
+
+# Personal screenshots
+Screenshot 1.png
+Screenshot 2.png
+Screenshot 4.png
+Screenshot 2026-05-13 225037.png
+
+# OpenCode config
+.qodo/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
