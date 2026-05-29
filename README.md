@@ -50,3 +50,8 @@ python assignment_nlp.py
 ```
 
 The dataset (`IMDB Dataset.csv`) is **not** included in this repo. Download it from [Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) and place it in the project root before running.
+
+## Contributors
+
+- [Zin-7045](https://github.com/Zin-7045) — Abdur Rehman
+- [mtahanaeem](https://github.com/mtahanaeem) — Muhammad Taha Naeem
